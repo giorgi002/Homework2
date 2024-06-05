@@ -1,0 +1,13 @@
+a { 
+    font-size: 24px;
+    font-weight: 700;
+    color: #8D81FF;
+    text-decoration: none;
+ }
+#active {
+    color: #4E6FAE;
+}
+
+ul{ 
+list-style:none;
+ }
